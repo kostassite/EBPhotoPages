@@ -14,6 +14,7 @@
 #import "EBPhotoPagesOperation.h"
 #import "EBPhotoPagesController.h"
 #import "EBPhotoViewController.h"
+#import <UIKit/UIKit.h>
 
 @interface EBPhotoPagesOperation ()
 

@@ -11,6 +11,7 @@
 
 #import <Foundation/Foundation.h>
 #import "EBPhotoTagProtocol.h"
+#import <UIKit/UIKit.h>
 
 /*
  EBPhotoPagesFactory is an abstract class responsible for creating all kinds

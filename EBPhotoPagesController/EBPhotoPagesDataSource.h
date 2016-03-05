@@ -11,6 +11,7 @@
 
 #import <Foundation/Foundation.h>
 #import "EBPhotoCommentProtocol.h"
+#import <UIKit/UIKit.h>
 
 @class EBPhotoPagesController;
 @class EBPhotoComment;
